@@ -12,13 +12,14 @@
 
 ### About me
 
-* 🎨 Lived 15 years in Angola, helped more than 300 companies to grow their business, by selling software solutions. For the last 3 years, I've been working on web3 projects.
+* Lived 15 years in Angola, helped more than 300 companies to grow their business, by selling software solutions. 
+Moved back to Europe since 2020, and the last 3 years, I've been working on web3 projects.
 
-* 🎁 Open source enthusiast. Hackathon lover.
+* Open source enthusiast. Hackathon lover.
 
-* 🔥 I love to work, learn, and share knowledge with the community.
+* I love to work, learn, and share knowledge with the community.
 
-* 🏢 I work at [VerisLabs](https://www.linkedin.com/company/verislabs/)
+* I am the CTO at [VerisLabs](https://www.linkedin.com/company/verislabs/), developing a decentralized Unlockd, maxAPY, and other projects.
 
 <div>
 <code><img height="20" src="https://gydocument.readthedocs.io/en/latest/_images/logo.svg"></code>
