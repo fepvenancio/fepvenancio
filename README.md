@@ -18,18 +18,15 @@
 
 * 🔥 I love to work, learn, and share knowledge with the community.
 
-* 🏢 I used to work at Tmax OS and [Coupang](https://www.coupang.jobs/en/teams/cmg-coupang-media-group/), and now I work at [AIRS Medical](https://airsmed.com/ko/).
+* 🏢 I work at [VerisLabs](https://www.linkedin.com/company/verislabs/)
 
 <div>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://gydocument.readthedocs.io/en/latest/_images/logo.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></code>
 <code><img height="20" src="https://prisma.gallerycdn.vsassets.io/extensions/prisma/prisma/3.12.0/1649166081033/Microsoft.VisualStudio.Services.Icons.Default"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
 </div>
 
 <br/>
@@ -41,21 +38,18 @@
 
 ![Filipe Venancio GitHub stats](https://github-readme-stats.vercel.app/api?username=fepvenancio&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 
-<a href="https://github.com/fepvenancio/github-contributor-stats">![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=fepvenancio&combine_all_yearly_contributions=true&hide=B,B+&theme=swift&hide_contributor_rank=false)</a>
+<a href="https://github.com/fepvenancio/github-contributor-stats">![Filipe Venancio GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=fepvenancio&combine_all_yearly_contributions=true&hide=B,B+&theme=swift&hide_contributor_rank=false)</a>
 
 <strong>Top Repositories</strong>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fepvenancio&repo=react-native-lottie-splash-screen&theme=swift)](https://github.com/fepvenancio/react-native-lottie-splash-screen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fepvenancio&repo=NFTBatchTransfers&theme=swift)](https://github.com/UnlockdFinance/NFTBatchTransfers)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fepvenancio&repo=github-contributor-stats&theme=swift)](https://github.com/fepvenancio/github-contributor-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fepvenancio&repo=Unlockd&theme=swift)](https://github.com/UnlockdFinance/unlockd)
+ 
 
 <strong>🏆 Dooboo lab's github stats</strong>
 
 <a href="https://stats.hyochan.dev/en/stats/"><img src="https://stats.hyochan.dev/api/github-stats?login=fepvenancio" width="600" /></a>
-
-<strong>Stackoverflow stats</strong>
-
-<a href="https://github.com/kurt-project/so-stats"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=8212847&theme=swift" alt="stack overflow stat"></a>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://fepvenancio.github.io/)](https://fepvenancio.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipeepv@gmail.com)](mailto:filipeepv@gmail.com)
