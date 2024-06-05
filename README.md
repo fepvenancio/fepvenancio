@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width=400 style="display: block; margin: 0 auto"/>
+  <img src="https://i.seadn.io/s/raw/files/e0d81b24a4f28bed20b495528450fdfd.png?auto=format&dpr=1&w=1000" width=400 style="display: block; margin: 0 auto"/>
 </p>
 
 <div align='center'>
@@ -42,7 +42,6 @@
 
 <strong>🏆 Dooboo lab's github stats</strong>
 
-<a href="https://stats.dooboo.io/"><img src="![fepvenancio github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=fepvenancio)" width="600" /></a>
-
+<a href="https://stats.hyochan.dev/en/stats/"><img src="https://stats.hyochan.dev/api/github-stats?login=fepvenancio" width="600" /></a>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipeepv@gmail.com)](mailto:filipeepv@gmail.com)
