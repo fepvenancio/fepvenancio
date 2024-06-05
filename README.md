@@ -43,6 +43,8 @@ Moved back to Europe since 2020, and the last 3 years, I've been working on web3
 
 <strong>🏆 Dooboo lab's github stats</strong>
 
-<a href="https://stats.hyochan.dev/en/stats/"><img src="https://stats.hyochan.dev/api/github-stats?login=fepvenancio" width="600" /></a>
+<a href="https://stats.dooboo.io/en"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=fepvenancio" width="600" /></a>
+
+<a href="https://stats.dooboo.io/en"><img src="https://stats.dooboo.io/api/github-trophies?login=fepvenancio" width="600" /></a>
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipeepv@gmail.com)](mailto:filipeepv@gmail.com)
