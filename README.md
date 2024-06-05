@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://i.imgur.com/P4FGMoS.png" width=400 style="display: block; margin: 0 auto"/>
+  <img src="" width=400 style="display: block; margin: 0 auto"/>
 </p>
 
 <div align='center'>
   <p align='center'>
-    <a href="https://www.linkedin.com/in/taehyun-hwang-876631201"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/eeht1717"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-    <a href="mailto:eeht1717@gmail.com.io"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/fepvenancio/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="https://x.com/filipeV3nancio"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+    <a href="mailto:filipeepv@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
   </p>
 </div>
 
@@ -34,7 +34,7 @@
 
 <br/>
 
-[![Github Follow](https://img.shields.io/github/followers/HwangTaehyun?label=Follow%20Me&style=social)](https://github.com/HwangTaehyun)
+[![Github Follow](https://img.shields.io/github/followers/fepvenancio?label=Follow%20Me&style=social)](https://github.com/fepvenancio)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangTaehyun&count_bg=%2322C0D7&title_bg=%232C4CD3&icon=influxdb.svg&icon_color=%2368D1AB&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <strong>Holopin badges</strong>
@@ -43,23 +43,23 @@
 
 <strong>Github stats</strong>
 
-![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangTaehyun&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
+![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=fepvenancio&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 
-<a href="https://github.com/HwangTaehyun/github-contributor-stats">![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=HwangTaehyun&combine_all_yearly_contributions=true&hide=B,B+&theme=swift&hide_contributor_rank=false)</a>
+<a href="https://github.com/fepvenancio/github-contributor-stats">![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=fepvenancio&combine_all_yearly_contributions=true&hide=B,B+&theme=swift&hide_contributor_rank=false)</a>
 
 <strong>Top Repositories</strong>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=react-native-lottie-splash-screen&theme=swift)](https://github.com/HwangTaehyun/react-native-lottie-splash-screen)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fepvenancio&repo=react-native-lottie-splash-screen&theme=swift)](https://github.com/fepvenancio/react-native-lottie-splash-screen)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HwangTaehyun&repo=github-contributor-stats&theme=swift)](https://github.com/HwangTaehyun/github-contributor-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fepvenancio&repo=github-contributor-stats&theme=swift)](https://github.com/fepvenancio/github-contributor-stats)
 
 <strong>🏆 Dooboo lab's github stats</strong>
 
-<a href="https://stats.hyochan.dev/en/stats/HwangTaehyun"><img src="https://stats.hyochan.dev/api/github-stats?login=HwangTaehyun" width="600" /></a>
+<a href="https://stats.hyochan.dev/en/stats/"><img src="https://stats.hyochan.dev/api/github-stats?login=fepvenancio" width="600" /></a>
 
 <strong>Stackoverflow stats</strong>
 
 <a href="https://github.com/kurt-project/so-stats"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=8212847&theme=swift" alt="stack overflow stat"></a>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://HwangTaehyun.github.io/)](https://HwangTaehyun.github.io/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://fepvenancio.github.io/)](https://fepvenancio.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com)](mailto:eeht1717@gmail.com)
