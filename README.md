@@ -40,16 +40,9 @@
 
 <a href="https://github.com/fepvenancio/github-contributor-stats">![Filipe Venancio GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=fepvenancio&combine_all_yearly_contributions=true&hide=B,B+&theme=swift&hide_contributor_rank=false)</a>
 
-<strong>Top Repositories</strong>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fepvenancio&repo=NFTBatchTransfers&theme=swift)](https://github.com/UnlockdFinance/NFTBatchTransfers)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fepvenancio&repo=Unlockd&theme=swift)](https://github.com/UnlockdFinance/unlockd)
- 
-
 <strong>🏆 Dooboo lab's github stats</strong>
 
-<a href="https://stats.hyochan.dev/en/stats/"><img src="https://stats.hyochan.dev/api/github-stats?login=fepvenancio" width="600" /></a>
+<a href="https://stats.dooboo.io/"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=fepvenancio)" width="600" /></a>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://fepvenancio.github.io/)](https://fepvenancio.github.io/)
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipeepv@gmail.com)](mailto:filipeepv@gmail.com)
