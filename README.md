@@ -12,11 +12,11 @@
 
 ### About me
 
-* 🎨 Frontend engineer who loves React, React Native and Electron.
+* 🎨 Lived 15 years in Angola, helped more than 300 companies to grow their business, by selling software solutions. For the last 3 years, I've been working on web3 projects.
 
-* 🎁 Open source enthusiast. Thanks to all the open source contributors!
+* 🎁 Open source enthusiast. Hackathon lover.
 
-* 🔥 I really love the thrill of making what I want possible!
+* 🔥 I love to work, learn, and share knowledge with the community.
 
 * 🏢 I used to work at Tmax OS and [Coupang](https://www.coupang.jobs/en/teams/cmg-coupang-media-group/), and now I work at [AIRS Medical](https://airsmed.com/ko/).
 
@@ -35,15 +35,11 @@
 <br/>
 
 [![Github Follow](https://img.shields.io/github/followers/fepvenancio?label=Follow%20Me&style=social)](https://github.com/fepvenancio)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHwangTaehyun&count_bg=%2322C0D7&title_bg=%232C4CD3&icon=influxdb.svg&icon_color=%2368D1AB&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<strong>Holopin badges</strong>
-
-[![@taehyunhwang's Holopin board](https://holopin.me/taehyunhwang)](https://holopin.io/@taehyunhwang)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffepvenancio&count_bg=%2322C0D7&title_bg=%232C4CD3&icon=influxdb.svg&icon_color=%2368D1AB&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <strong>Github stats</strong>
 
-![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=fepvenancio&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
+![Filipe Venancio GitHub stats](https://github-readme-stats.vercel.app/api?username=fepvenancio&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 
 <a href="https://github.com/fepvenancio/github-contributor-stats">![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=fepvenancio&combine_all_yearly_contributions=true&hide=B,B+&theme=swift&hide_contributor_rank=false)</a>
 
@@ -62,4 +58,4 @@
 <a href="https://github.com/kurt-project/so-stats"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=8212847&theme=swift" alt="stack overflow stat"></a>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://fepvenancio.github.io/)](https://fepvenancio.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eeht1717@gmail.com)](mailto:eeht1717@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipeepv@gmail.com)](mailto:filipeepv@gmail.com)
