@@ -22,7 +22,7 @@ Moved back to Europe since 2020, and the last 3 years, I've been working on web3
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fepvenancio/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/447393393071)
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@v3n)
-[![kaggle](https://drive.google.com/file/d/1K6JfiJ9SyjBVhbd4rM82eLecp-UoITq1/view?usp=sharing)](https://www.kaggle.com/fvenancio)
+[![kaggle](![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white))](https://www.kaggle.com/fvenancio)
 
 ## 🛠 Tools and Frameworks used
 
@@ -69,9 +69,5 @@ Name | Badges
 <b>Note:</b> The top languages shown here are a reflection of what I have on my Github and doesn't entirely reflect the spectrum of my skill set.
 
 <br/>
-
-## 🏆 Dooboo lab's github stats
-
-<a href="https://stats.dooboo.io/en"><img src="https://stats.dooboo.io/api/github-trophies?login=fepvenancio" width="600" /></a>
 
 
