@@ -5,10 +5,6 @@
 <h1 align="center">Hello 👋, I'm Filipe Venancio ☺</h1>
 <h3 align="center">A EVM expert and developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fepvenancio&label=Profile%20views&color=0e75b6&style=flat" alt="fepvenancio" /> </p>
-
-<p align="left"> <a href="https://twitter.com/filipeV3nancio" target="blank"><img src="https://img.shields.io/twitter/follow/filipeV3nancio?logo=twitter&style=for-the-badge" alt="filipeV3nancio" /></a> </p>
-
 - 🐱 Lived 15 years in Angola, helped more than 300 companies to grow their business, by selling software solutions. 
 Moved back to Europe since 2020, and the last 3 years, I've been working on web3 projects.
 
@@ -18,9 +14,11 @@ Moved back to Europe since 2020, and the last 3 years, I've been working on web3
 
 - 🛠️ At the moment I am the CTO at [VerisLabs](https://www.linkedin.com/company/verislabs/), working on: Unlockd (P2Pool RWA Lending protocol), MaxAPY (Yield Vault aggregator), Khemia (P2P Lending OTC).
 
-- 📫 Reach me at **filipeepv@gmail.com** [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipeepv@gmail.com)](mailto:filipeepv@gmail.com)
+- 📫 Reach me at **filipeepv@gmail.com**
+
 
 ## 🔗 Links
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/filipeV3nancio) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fepvenancio/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/447393393071)
 [![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@v3n)
@@ -64,7 +62,7 @@ Name | Badges
 ## 📊 My Github Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fepvenancio&layout=compact&theme=dark&hide_border=false" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fepvenancio&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs%22%20alt=%22v3n%20github%20stats%22 /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fepvenancio&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark&hide_border=false&border_radius=2&hide=contribs" alt="v3n's github stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fepvenancio&theme=dark" alt="v3n" /></p>
 <br/>
@@ -73,8 +71,6 @@ Name | Badges
 <br/>
 
 ## 🏆 Dooboo lab's github stats
-
-<a href="https://stats.dooboo.io/en"><img src="https://stats.dooboo.io/api/github-stats-advanced?login=fepvenancio" width="600" /></a>
 
 <a href="https://stats.dooboo.io/en"><img src="https://stats.dooboo.io/api/github-trophies?login=fepvenancio" width="600" /></a>
 
