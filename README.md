@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.seadn.io/s/raw/files/e0d81b24a4f28bed20b495528450fdfd.png?auto=format&dpr=1&w=1000" width=400 style="display: block; margin: 0 auto"/>
-</p>
-
 <h1 align="center">Hello 👋, I'm Filipe Venancio ☺</h1>
 <h3 align="center">A EVM expert and developer</h3>
 
