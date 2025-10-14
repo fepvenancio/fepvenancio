@@ -10,7 +10,9 @@ Moved back to Europe since 2020, and the last 3 years, I've been working on web3
 
 - 🛠️ At the moment I am the CTO at [VerisLabs](https://www.linkedin.com/company/verislabs/), working on: Unlockd (P2Pool RWA Lending protocol), MaxAPY (Yield Vault aggregator), Khemia (P2P Lending OTC).
 
-- 📫 Reach me at **filipeepv@gmail.com**
+- 📫 Reach me at **filipeepv@gmail.com** 
+
+- 💻 website at **fven.xyz**
 
 
 ## 🔗 Links
