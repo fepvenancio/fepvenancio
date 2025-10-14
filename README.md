@@ -12,7 +12,7 @@ Moved back to Europe since 2020, and the last 3 years, I've been working on web3
 
 - 📫 Reach me at **filipeepv@gmail.com** 
 
-- 💻 website at **fven.xyz**
+- 💻 website at [fven](https://fven.xyz/)
 
 
 ## 🔗 Links
