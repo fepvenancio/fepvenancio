@@ -8,7 +8,8 @@ Moved back to Europe since 2020, and the last 3 years, I've been working on web3
 
 - 💎 I love to work, learn, and share knowledge with the community.
 
-- 🛠️ At the moment I am the CTO at [VerisLabs](https://www.linkedin.com/company/verislabs/), working on: Unlockd (P2Pool RWA Lending protocol), MaxAPY (Yield Vault aggregator), Khemia (P2P Lending OTC).
+- 🛠️ At the moment I am freelancing as web3 techlead for Keyrock building their new protocol [KAWM](https://github.com/turingcapitalgroup/kam/) 
+- worked on: VerisLabs (Cross-chain Vault: maxAPY v2), Unlockd (P2Pool RWA Lending protocol), MaxAPY (Yield Vault aggregator), Khemia (P2P Lending OTC).
 
 - 📫 Reach me at **filipeepv@gmail.com** 
 
