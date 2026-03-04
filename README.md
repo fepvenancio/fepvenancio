@@ -52,8 +52,10 @@ I am a seasoned developer with a diverse background, moving from scaling busines
 ### 🤝 Connect & Socials
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fepvenancio&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/fepvenancio?label=Followers&style=for-the-badge&color=2ecc71" alt="Followers" />
+  <a href="https://github.com/fepvenancio?tab=followers">
+    <img src="https://img.shields.io/github/followers/fepvenancio?label=Followers&logo=github&style=for-the-badge&color=2ecc71" alt="Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=fepvenancio&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
