@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/fepvenancio/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://wa.me/447393393071"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="https://medium.com/@v3n"><img src="https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"></a>
+  <a href="https://www.kaggle.com/fvenancio"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="https://fven.xyz/"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
 </p>
 
