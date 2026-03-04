@@ -35,16 +35,16 @@ I am a seasoned developer with a diverse background, moving from scaling busines
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fepvenancio&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fepvenancio&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fepvenancio&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fepvenancio&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fepvenancio&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fepvenancio&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fepvenancio&theme=tokyonight&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fepvenancio&theme=radical&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
