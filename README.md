@@ -35,22 +35,7 @@ I am a seasoned developer with a diverse background, moving from scaling busines
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
 | **Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fepvenancio&show_icons=true&bg_color=050505&title_color=10b981&text_color=a1a1aa&icon_color=10b981&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fepvenancio&layout=compact&bg_color=050505&title_color=10b981&text_color=a1a1aa&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fepvenancio&background=050505&dates=a1a1aa&labels=10b981&currStreakNum=fafafa&sideNums=fafafa&currStreakLabel=10b981&sideLabels=a1a1aa&ring=10b981&fire=10b981&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fepvenancio&theme=radical&no-bg=true&no-frame=true&text_color=10b981" alt="GitHub Trophies" />
-</p>
 
 ---
 
